@@ -20,3 +20,8 @@ $ brew install node     // install or update version.
 $ yarn --version        // current version name.
 $ brew upgrage yarn     // update stable version.
 ```
+
+## Expo
+```
+$ npm install -g expo-cli   // update expo client stable version.
+```
